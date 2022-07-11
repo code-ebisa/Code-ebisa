@@ -1,0 +1,1 @@
+prompt('Rate my website from 1 to 10')
